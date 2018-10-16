@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 4
 
-**Author(s):** Natanael Alpay, and 
+**Author(s):** Natanael Alpay, and Gage Kizzar
 
 ## Specification
 
@@ -28,7 +28,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 I had a problem with number 9, but other than that I found the assignment to be quit interesting, especially the method we used, to take a list and than remove all non prime number instead of adding to the list all the prime numbers.
 
-Natanael Alpay
+Natanael Alpay, GageKizzar
 
 ## Honor Pledge
 
@@ -39,4 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Natanael Alpay
+Natanael Alpay, GageKizzar
