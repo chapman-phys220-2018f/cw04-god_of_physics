@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 4
 
-**Author(s):** Natanael Alpay
+**Author(s):** Natanael Alpay, and 
 
 ## Specification
 
